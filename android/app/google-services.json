@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145053196371",
+    "project_id": "dream-walk-ed40e",
+    "storage_bucket": "dream-walk-ed40e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145053196371:android:dcb6b21178ced1c1d8e6a6",
+        "android_client_info": {
+          "package_name": "com.dreamwalk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw0f9r8vn_yD4i5moK-rFe5kNuGg7qMQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
